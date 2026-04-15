@@ -1,5 +1,5 @@
 
-# 🎬 PROTOTYPE SETTINGS
+### 🎬 PROTOTYPE SETTINGS
 
 ```
 * Add transitions (Smart Animate / Slide)
