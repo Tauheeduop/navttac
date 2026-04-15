@@ -18,7 +18,4 @@
   - Sub item
 
 ---
-
----
-***
-___
+[Google](https://google.com)
