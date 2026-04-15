@@ -1,4 +1,12 @@
 
+---
+
+# 📊 8. Table
+```markdown
+| Name | Age |
+|------|-----|
+| Ali  | 20  |
+| Sara | 22  |
 ### 🎬 *PROTOTYPE SETTINGS*
 
 ```
