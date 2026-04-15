@@ -1,5 +1,6 @@
 
 # 🎬 PROTOTYPE SETTINGS
+---
 ```
 * Add transitions (Smart Animate / Slide)
 * Duration: 200–300ms
